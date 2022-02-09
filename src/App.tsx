@@ -30,13 +30,13 @@ import {
 import {
   isWordInWordList,
   isWinningWord,
-  solutionIndex,
+  // solutionIndex,
   solution,
 } from './lib/words'
 import { addStatsForCompletedGame, loadStats } from './lib/stats'
 import {
   loadGameStateFromLocalStorage,
-  saveGameStateToLocalStorage,
+  // saveGameStateToLocalStorage,
 } from './lib/localStorage'
 
 import './App.css'
